@@ -11,6 +11,7 @@
     - Invoices
     - Royalties
     - Compute (?)
+    - Combination of above?
 - Put in Special Purpose Vehicle (SPV)
 - New asset!
 
