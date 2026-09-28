@@ -23,7 +23,9 @@
 - New asset(s)
 - A type of Structured Product
 - A product with different risk / reward characteristics than the original pool (of assets)
-    - Collateralized Debt Obligation (CDO)
+
+## Also Known As
+- Collateralized Debt Obligation (CDO)
     - Collateralized Loan Obligation (CLO)
     - Collateralized Mortgage Obligation (CMO)
     - Collateralized Fund Obligation (CFO)
