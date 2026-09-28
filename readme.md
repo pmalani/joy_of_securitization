@@ -50,6 +50,9 @@
     - Combination
 - Securitizer (of CLO) that buys loans (in open market) and packages them is exempt
 
+## Fees
+The originator or securitizer earns fees for managing the CDO
+
 ## Tranches Rating
 - Senior will have highest rating (e.g. A)
 - Junior will have lower rating (e.g. B)
