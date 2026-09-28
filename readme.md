@@ -23,6 +23,13 @@
 - New asset(s)
 - A type of Structured Product
 - A product with different risk / reward characteristics than the original pool (of assets)
+    - Collateralized Debt Obligation (CDO)
+    - Collateralized Loan Obligation (CLO)
+    - Collateralized Mortgage Obligation (CMO)
+- Skin in the game, the originator of the CDO must do 5% risk-retention
+    - Vertical: 5% across all tranches
+    - Horizontal: 5% (of total fair value) only in 1 tranche (e.g.equity)
+    - Combination
 
 ## Tranches Rating
 - Senior will have highest rating (e.g. A)
@@ -49,7 +56,8 @@
 The senior tranches may get favorable regulatory treatment
 
 # Full Circle
-Even companies are structured this way with a capital structure
+- Even companies are structured this way with a capital structure
+- A CDO of other CDOs
 
 # Whole-Business Securitization
 - More senior than senior
