@@ -10,6 +10,7 @@
     - Receivables
     - Invoices
     - Royalties
+    - Compute (?)
 - Put in Special Purpose Vehicle (SPV)
 - New asset!
 
