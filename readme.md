@@ -15,6 +15,17 @@
 - Put in Special Purpose Vehicle (SPV)
 - New asset!
 
+# Warehouse
+- The pool of assets accumulate in a warehouse
+- Before being packed into SPV of target size
+- Warehouse Finance or Line of Credit
+    - The loan given to the originator or securitizer 
+    - To help reach target SPV size
+    - Examples;
+        - Originator starts with 10mm
+        - SPV size 100mm
+        - Originator borrows 90mm
+
 # Securitization
 - Pool of assets
 - Put in SPV
