@@ -26,6 +26,7 @@
     - Collateralized Debt Obligation (CDO)
     - Collateralized Loan Obligation (CLO)
     - Collateralized Mortgage Obligation (CMO)
+    - Collateralized Fund Obligation (CFO)
 - Skin in the game, the originator of the CDO must do 5% risk-retention
     - Vertical: 5% across all tranches
     - Horizontal: 5% (of total fair value) only in 1 tranche (e.g.equity)
