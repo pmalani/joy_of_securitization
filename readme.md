@@ -34,7 +34,8 @@
     - Junior (e.g. 30%)
     - Equity (e.g. 50%)
 - New asset(s)
-- A type of Structured Product
+- A type of Structured Product 
+- A.k.a Structured Credit
 - A product with different risk / reward characteristics than the original pool (of assets)
 
 ## Also Known As
